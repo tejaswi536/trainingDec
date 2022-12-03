@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    
+}
+
+.parent{
+   width: 500px;
+   height: 150vh;
+   border: 1px solid green;
+   position: relative;
+}
+
+.child-1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: fixed;
+    
+    top: 100px;
+}
+
